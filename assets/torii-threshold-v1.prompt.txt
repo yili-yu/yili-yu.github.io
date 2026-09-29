@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: full-viewport entrance background for an interactive personal research website
+Primary request: an original mountain shrine threshold seen from outside the boundary at blue hour, a quiet entrance that feels like the place already existed before the visitor arrived
+Scene/backdrop: an old vermilion torii standing at the beginning of a long, slightly uneven stone stairway; the shrine itself is only a tiny warm light far uphill, mostly hidden by cedar trees and mist; distant mountains beneath a deep indigo sky with a thin moon
+Subject: the torii and the path beyond it; one small weathered wooden notice board beside the path; no foreground shrine courtyard and no interactive props yet
+Style/medium: painterly 2D environment illustration with restrained Japanese woodblock-print influence, natural pigment texture and subtle handmade paper grain; original setting, coherent with a darker lived-in shrine courtyard scene
+Composition/framing: wide 16:9, human eye level standing several steps before the torii; strong central passage but slightly asymmetrical; generous calm sky and shadow areas for sparse HTML labels; clear silhouette of torii and notice board
+Lighting/mood: late blue-hour moonlight, one distant amber lamp, cool mist, quiet and watchful rather than grand or frightening
+Color palette: deep indigo, charcoal cedar, weathered faded vermilion, moon gray, one small amber light
+Constraints: no text, no logos, no watermark, no UI chrome, no people, no shrine maiden, no recognizable copyrighted characters, no modern objects, no photorealism; do not show the full shrine compound; preserve readable silhouettes and broad low-detail areas for responsive cropping
+Avoid: anime character art, tourist postcard symmetry, excessive cherry blossoms, ornate fantasy architecture, glossy 3D render, crowded props, dramatic action scene

@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: full-viewport website scene background for an interactive personal research archive
+Primary request: an original, inhabited shrine courtyard at late blue-hour dusk, quiet but slightly mischievous, designed as a place visitors can explore through clickable objects
+Scene/backdrop: old wooden shrine main hall under deep indigo sky; stone path and torii partly visible; wooded mountain and thin mist in the distance; the site feels lived-in rather than ceremonial
+Subject: clearly readable foreground objects that can later become web hotspots: a red donation box near center, a straw broom leaning by the veranda, a weathered wooden mailbox, a low writing desk with scattered paper, a half-open storehouse door, and a narrow path slipping behind the shrine
+Style/medium: painterly 2D background illustration with restrained Japanese woodblock-print influence, textured natural pigments and handmade paper grain; original setting, not copied from any existing franchise or artist
+Composition/framing: wide 16:9 establishing view, slightly elevated human eye level, strong depth layers; keep each interactive object visually separated; leave dark calm negative space in the upper sky for minimal site title; no central character
+Lighting/mood: cool moonlit blue ambient light, small warm pools of lantern light, serene and mysterious, one humorous hint of domestic untidiness
+Color palette: indigo, charcoal wood, faded vermilion, warm paper beige, small moonlit silver accents
+Constraints: no text, no logos, no watermark, no UI chrome, no people or recognizable copyrighted characters, no modern objects, no photorealism; preserve clear silhouettes and sufficient contrast for overlay hotspots
+Avoid: generic anime splash art, ornate fantasy palace, excessive cherry blossoms, glossy 3D rendering, crowded composition, symmetrical tourist postcard

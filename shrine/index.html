@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN" class="scene-root">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="yili 的公开境内：一座可以走动、翻找与偶然误入的私人研究神社。">
+  <meta name="theme-color" content="#0b1728">
+  <title>境内｜yiliyu.com</title>
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../assets/site.css">
+  <script defer src="../assets/site.js"></script>
+</head>
+<body class="scene-page">
+  <a class="skip-link" href="#plain-index">跳到文字索引</a>
+
+  <header class="scene-header">
+    <a class="wordmark" href="../" aria-label="回到鸟居外"><strong>yili</strong><span>境内</span></a>
+    <div class="scene-tools">
+      <button class="scene-tool" type="button" data-action="toggle-index" aria-expanded="false" aria-controls="plain-index">案内</button>
+    </div>
+  </header>
+
+  <main class="scene" aria-label="神社境内，可点击场景中的物件进入不同地点">
+    <img class="scene-art" src="../assets/shrine-dusk-v1.png" alt="暮色中的山间神社。境内有赛钱箱、扫帚、信箱、散落着纸张的矮桌、仓库与通往后山的小路。">
+    <div class="scene-shade" aria-hidden="true"></div>
+
+    <a class="hotspot hotspot-hall" href="../about/" aria-label="走进本殿，查看关于 yili 的说明"><span class="hotspot-dot"></span><span class="hotspot-label">走进本殿</span></a>
+    <a class="hotspot hotspot-warehouse" href="../warehouse/" aria-label="进入亮着灯的仓库"><span class="hotspot-dot"></span><span class="hotspot-label">翻仓库</span></a>
+    <a class="hotspot hotspot-mail" href="../letters/" aria-label="打开信箱"><span class="hotspot-dot"></span><span class="hotspot-label">看信箱</span></a>
+    <a class="hotspot hotspot-desk" href="../notes/" aria-label="查看桌上的纸"><span class="hotspot-dot"></span><span class="hotspot-label">翻桌上的纸</span></a>
+    <a class="hotspot hotspot-path" href="../backyard/" aria-label="沿着小路去后山"><span class="hotspot-dot"></span><span class="hotspot-label">沿着灯走</span></a>
+    <button class="hotspot hotspot-saisen" type="button" data-action="saisen" aria-label="向赛钱箱里投点什么"><span class="hotspot-dot"></span><span class="hotspot-label">投点什么</span></button>
+    <button class="hotspot hotspot-broom" type="button" data-action="broom" aria-label="碰一下靠在廊前的扫帚"><span class="hotspot-dot"></span><span class="hotspot-label">别碰扫帚</span></button>
+    <a class="hotspot hotspot-water hidden-hotspot" href="../rain/" aria-label="看看水钵里映着什么"><span class="hotspot-dot"></span><span class="hotspot-label">水里有什么</span></a>
+    <p class="scene-whisper" aria-hidden="true">没有事情的时候，就只是没有事情。</p>
+    <p class="scene-pan-hint" aria-hidden="true">←　在境内走走　→</p>
+  </main>
+
+  <aside id="plain-index" class="plain-index" aria-label="境内文字索引" hidden>
+    <div class="index-heading"><p>如果不想在夜里找路</p><button type="button" data-action="toggle-index" aria-label="关闭文字索引">×</button></div>
+    <nav>
+      <a href="../about/"><span>本殿</span><small>关于与公开说明</small></a>
+      <a href="../warehouse/"><span>仓库</span><small>成果、旧稿与版本</small></a>
+      <a href="../notes/"><span>桌上的纸</span><small>随笔与研究札记</small></a>
+      <a href="../letters/"><span>信箱</span><small>书信与往来</small></a>
+      <a href="../backyard/"><span>后山</span><small>实验与未完成页面</small></a>
+      <a href="../index/"><span>正式索引</span><small>不绕路地查找</small></a>
+      <a href="https://archive.yiliyu.com/"><span>私人密库</span><small>需要另行解锁</small></a>
+    </nav>
+    <p class="index-note">这里只列能直说的路。还有一些地方不在这里。</p>
+  </aside>
+  <div class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
